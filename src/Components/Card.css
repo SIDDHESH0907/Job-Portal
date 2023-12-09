@@ -1,0 +1,37 @@
+.card{
+    border: 2px solid black;
+    border-radius: 6px;
+}
+
+
+.card-details{
+    margin: 10px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 6px;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pagination{
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    height: 30px;
+    width: 70px;
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 6px;
+}
